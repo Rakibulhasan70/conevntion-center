@@ -1,3 +1,8 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.plan{
+    background-color: #faf3f5;
+    color: rgb(58, 114, 218);
+    font-weight: bold;
+}
