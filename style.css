@@ -1,8 +1,19 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    overflow: none;
 }
 .plan{
     background-color: #faf3f5;
     color: rgb(58, 114, 218);
     font-weight: bold;
+}
+.border{
+    height: 400px;
+    text-align: left;
+    background-color: #4e8dec;
+    border-radius: 20px;
+    color: white;
+    margin-top: -1px;
+    padding-top: 60px;
+    
 }
